@@ -7,11 +7,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/juan-gerardo-medellin-ibarra-8b207058/">
+  <a href="www.linkedin.com/in/elvisbravosanchez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.jgmedellin.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
 <hr/>
